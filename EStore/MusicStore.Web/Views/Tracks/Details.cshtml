@@ -1,0 +1,38 @@
+﻿@model MusicStore.Domain.Domain.Tracks
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div class="container mt-5 text-white">
+    <div class="row">
+        <div class="col-md-8">
+            <h1 class="display-4">@Html.DisplayFor(model => model.Title)</h1>
+            <p class="lead">Duration: @Html.DisplayFor(model => model.Duration)</p>
+        </div>
+        <div class="col-md-4 text-end">
+            <div class="btn-group">
+                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="row text-white">
+        <div class="col-md-12">
+            <dl class="row">
+                <dt class="col-sm-3">Track Name:</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Title)</dd>
+                <dt class="col-sm-3">Duration:</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Duration)</dd>
+                <dt class="col-sm-3">Album:</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Album.AlbumName)</dd>
+            </dl>
+        </div>
+    </div>
+</div>
