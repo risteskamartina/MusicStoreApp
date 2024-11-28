@@ -10,3 +10,4 @@ C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Domain\obj\Debug\n
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.pdb
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Domain\obj\Debug\net8.0\ref\MusicStore.Domain.dll
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Domain\obj\Debug\net8.0\MusicStore.Domain.sourcelink.json

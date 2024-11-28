@@ -15,3 +15,4 @@ C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Repository\obj\Deb
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Repository\obj\Debug\net8.0\ref\MusicStore.Repository.dll
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Repository\bin\Debug\net8.0\MusicStore.Repository.runtimeconfig.json
 C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Repository\obj\Debug\net8.0\MusicStore.Repository.genruntimeconfig.cache
+C:\Users\Martina\source\repos\MusicStoreApp\EStore\MusicStore.Repository\obj\Debug\net8.0\MusicStore.Repository.sourcelink.json

@@ -9141,8 +9141,8 @@
     },
     "MusicStore.Service/1.0.0": {
       "type": "project",
-      "path": "../../MusicStore.Service/MusicStore.Service.csproj",
-      "msbuildProject": "../../MusicStore.Service/MusicStore.Service.csproj"
+      "path": "../MusicStore.Service/MusicStore.Service.csproj",
+      "msbuildProject": "../MusicStore.Service/MusicStore.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9192,6 +9192,9 @@
             },
             "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj": {
               "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj"
+            },
+            "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj": {
+              "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj"
             },
             "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\MusicStore.Service\\MusicStore.Service.csproj": {
               "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\MusicStore.Service\\MusicStore.Service.csproj"
