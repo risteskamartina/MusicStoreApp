@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+1IW/0tT2I=",
+  "dgSpecHash": "FTkpIjDrGu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martina\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
     "C:\\Users\\Martina\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",

@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
       "projectName": "MusicStore.Domain",
-      "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
+      "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
       "packagesPath": "C:\\Users\\Martina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martina\\AppData\\Roaming\\NuGet\\NuGet.Config",

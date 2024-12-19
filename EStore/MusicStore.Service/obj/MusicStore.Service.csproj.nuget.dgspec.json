@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj": {}
+    "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+    "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
         "projectName": "MusicStore.Domain",
-        "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
+        "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj",
         "packagesPath": "C:\\Users\\Martina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martina\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj": {
+    "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj",
         "projectName": "MusicStore.Repository",
-        "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj",
+        "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj",
         "packagesPath": "C:\\Users\\Martina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martina\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj"
+              "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj": {
+    "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj",
         "projectName": "MusicStore.Service",
-        "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj",
+        "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Service\\MusicStore.Service.csproj",
         "packagesPath": "C:\\Users\\Martina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Service\\obj\\",
+        "outputPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martina\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,11 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj"
+              "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Domain\\MusicStore.Domain.csproj"
               },
-              "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj": {
-                "projectPath": "C:\\Users\\Martina\\source\\repos\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj"
+              "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj": {
+                "projectPath": "C:\\Users\\Martina\\Desktop\\MusicStoreApp\\EStore\\MusicStore.Repository\\MusicStore.Repository.csproj"
               }
             }
           }
